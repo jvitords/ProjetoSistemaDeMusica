@@ -1,0 +1,15 @@
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\bin\Debug\net8.0\SistemaDeMusicas.exe
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\bin\Debug\net8.0\SistemaDeMusicas.deps.json
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\bin\Debug\net8.0\SistemaDeMusicas.runtimeconfig.json
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\bin\Debug\net8.0\SistemaDeMusicas.dll
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\bin\Debug\net8.0\SistemaDeMusicas.pdb
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.AssemblyInfoInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.AssemblyInfo.cs
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.csproj.CoreCompileInputs.cache
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.sourcelink.json
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.dll
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\refint\SistemaDeMusicas.dll
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.pdb
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\SistemaDeMusicas.genruntimeconfig.cache
+C:\Users\jvdua\OneDrive\Documentos\SistemaDeMusicas\SistemaDeMusicas\obj\Debug\net8.0\ref\SistemaDeMusicas.dll
