@@ -4,9 +4,9 @@ namespace SistemaDeMusicas.Menus;
 
 internal class MenuRegistrarAlbum : Menu
 {
-    public void Executar(Dictionary<string, Banda> bandasRegistradas)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-        Console.Clear();
+        base.Executar(bandasRegistradas);
         MenuExibirTituloDaOpcao("Registro de álbuns");
         Console.Write("Digite a banda cujo álbum deseja registrar: ");
         string nomeDaBanda = Console.ReadLine()!;
@@ -15,7 +15,7 @@ internal class MenuRegistrarAlbum : Menu
             Console.Write("Agora digite o título do álbum: ");
             string tituloAlbum = Console.ReadLine()!;
             Banda banda = bandasRegistradas[nomeDaBanda];
-            banda.AdicionarAlbum(new Album(nomeDaBanda));
+            banda.AdicionarAlbum(new Album(tituloAlbum));
 
             Console.WriteLine($"O álbum {tituloAlbum} de {nomeDaBanda} foi registrado com sucesso!");
         }

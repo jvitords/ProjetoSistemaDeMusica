@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SistemaDeMusicas"
+    "\\SistemaDeMusicas",
+    "\\SistemaDeMusicas\\Menus",
+    "\\SistemaDeMusicas\\Modelos"
   ],
-  "SelectedNode": "\\SistemaDeMusicas",
+  "SelectedNode": "\\SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs",
   "PreviewInSolutionExplorer": false
 }

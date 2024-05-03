@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Modelos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Modelos\\Banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Modelos\\Avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Modelos\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaDeMusicas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,77 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuAvaliaBanda.cs",
-              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs",
-              "RelativeDocumentMoniker": "SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs",
-              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs",
-              "RelativeToolTip": "SistemaDeMusicas\\Menus\\MenuAvaliaBanda.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswBsAAAAeAAAA",
+              "DocumentIndex": 0,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "SistemaDeMusicas\\Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T17:04:26.653Z",
+              "WhenOpened": "2024-05-02T23:51:32.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Musica.cs",
-              "RelativeDocumentMoniker": "SistemaDeMusicas\\Modelos\\Musica.cs",
-              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Musica.cs",
-              "RelativeToolTip": "SistemaDeMusicas\\Modelos\\Musica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T16:58:52.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Banda.cs",
               "RelativeDocumentMoniker": "SistemaDeMusicas\\Modelos\\Banda.cs",
               "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Banda.cs",
               "RelativeToolTip": "SistemaDeMusicas\\Modelos\\Banda.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T16:58:52.272Z"
+              "WhenOpened": "2024-05-02T23:20:28.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Avaliacao.cs",
-              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Avaliacao.cs",
-              "RelativeDocumentMoniker": "SistemaDeMusicas\\Modelos\\Avaliacao.cs",
-              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Avaliacao.cs",
-              "RelativeToolTip": "SistemaDeMusicas\\Modelos\\Avaliacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "MenuAvaliarAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeDocumentMoniker": "SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs",
+              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeToolTip": "SistemaDeMusicas\\Menus\\MenuAvaliarAlbum.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T16:58:51.612Z"
+              "WhenOpened": "2024-05-02T23:16:47.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Album.cs",
-              "RelativeDocumentMoniker": "SistemaDeMusicas\\Modelos\\Album.cs",
-              "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Modelos\\Album.cs",
-              "RelativeToolTip": "SistemaDeMusicas\\Modelos\\Album.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T16:58:50.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Program.cs",
               "RelativeDocumentMoniker": "SistemaDeMusicas\\Program.cs",
               "ToolTip": "C:\\Users\\jvdua\\OneDrive\\Documentos\\SistemaDeMusicas\\SistemaDeMusicas\\Program.cs",
               "RelativeToolTip": "SistemaDeMusicas\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCsAAAA0AAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T16:33:14.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:15:22.722Z"
             }
           ]
         }

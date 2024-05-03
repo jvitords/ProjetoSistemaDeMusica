@@ -1,13 +1,13 @@
 ﻿namespace SistemaDeMusicas.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
 
     public Banda(string nome)
     {
-        Nome = nome.ToLower();
+        Nome = nome;
     }
 
     public string Nome { get; }
